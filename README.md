@@ -26,17 +26,13 @@ This project demonstrates data annotation workflows using **[V7 Darwin](https://
 
 ### Video 1
 
-<video src="V7_1.webm" width="800" controls>
-  Your browser does not support the video tag.
-</video>
+<video src="PASTE_CDN_URL_FOR_V7_1_HERE" width="800" controls></video>
 
 ---
 
 ### Video 2
 
-<video src="V7_2.webm" width="800" controls>
-  Your browser does not support the video tag.
-</video>
+<video src="PASTE_CDN_URL_FOR_V7_2_HERE" width="800" controls></video>
 
 ---
 
