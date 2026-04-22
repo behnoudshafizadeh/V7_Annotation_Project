@@ -26,7 +26,7 @@ This project demonstrates data annotation workflows using **[V7 Darwin](https://
 
 ### Video 1
 
-<video src="[V7_1.webm](https://github.com/user-attachments/assets/a06e34ec-49b3-4373-a721-06fa88fdc191)
+<video src="https://github.com/user-attachments/assets/a06e34ec-49b3-4373-a721-06fa88fdc191
 " width="800" controls></video>
 
 ---
