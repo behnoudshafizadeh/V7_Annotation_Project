@@ -33,7 +33,8 @@ This project demonstrates data annotation workflows using **[V7 Darwin](https://
 
 ### Video 2
 
-<video src="PASTE_CDN_URL_FOR_V7_2_HERE" width="800" controls></video>
+<video src="https://github.com/user-attachments/assets/501b5f20-00f3-4531-b598-565ccab39d4a
+" width="800" controls></video>
 
 ---
 
